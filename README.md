@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Ashish Singh](https://www.linkedin.com/in/ashishl47/) .
+### Hi there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> , I'm [Ashish Singh](https://www.linkedin.com/in/ashishl47/) :alien: .
 
 <p>
 I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur.
