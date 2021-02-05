@@ -24,6 +24,6 @@ I have deep interest in FullStack Development and love to work on new and intere
   
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Logan-47&&show_icons=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Logan-47&&show_icons=true&count_private=true&theme=onedark"/>
   </a>
 </p>
