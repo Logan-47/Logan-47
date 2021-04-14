@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> , I'm [Ashish Singh](https://www.linkedin.com/in/ashishl47/) :alien: 
+![](https://komarev.com/ghpvc/?username=Logan-47&color=green)
 
 <p align="center">
 <p>
