@@ -31,6 +31,5 @@ I have deep interest in FullStack Development and love to work on new and intere
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Logan-47&w_icons=true&hide_border=true&theme=radical&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-47&theme=radical&layout=compact&count_private=true)
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logan-47&" alt="Logan-47" /></p>
 
 </p>
