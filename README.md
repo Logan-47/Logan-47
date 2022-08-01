@@ -3,7 +3,8 @@
 
 <p align="center">
 <p>
-I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur.
+I am currently working as an SDE-1 at Rebel Food (Formerly Faasos).
+Always Open for opportunities and collaboration.
 
 I have deep interest in FullStack Development and love to work on new and interesting technologies.
 </p>
