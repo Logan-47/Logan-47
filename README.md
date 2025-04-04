@@ -3,7 +3,7 @@
 
 <p align="center">
 <p>
-I am currently working as an SDE-1 at Rebel Food (Formerly Faasos).
+I am currently working as Software Engineer at Probo .
 Always Open for opportunities and collaboration.
 
 I have deep interest in FullStack Development and love to work on new and interesting technologies.
